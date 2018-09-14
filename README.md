@@ -1,3 +1,3 @@
 # dsa mini project
 
-project related to data structures
+project on heap manager
