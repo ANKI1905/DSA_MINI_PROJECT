@@ -1,3 +1,3 @@
 # dsa mini project
 
-project on heap manager
+a project on compression
