@@ -2,3 +2,7 @@
 ./project -uc1 data.huff data.dec.huff
 ./project -c2 data.txt data.lzw
 ./project -uc2 data.lzw data.lzw.dec
+./project -c1 data1.txt data1.huff
+./project -uc1 data1.huff data1.dec.huff
+./project -c2 data1.txt data1.lzw
+./project -uc2 data1.lzw data1.lzw.dec
