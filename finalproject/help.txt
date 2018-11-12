@@ -1,0 +1,18 @@
+SOURCES:
+1.Internet:
+a.For huffman: https://www2.cs.duke.edu/csed/poop/huff/info/
+	       https://www.geeksforgeeks.org/image-compression-using-huffman-coding/
+	       http://www.kinematicsoup.com/news/2016/9/6/data-compression-bit-packing-101   
+	       www.cs.ucf.edu
+	       https://www.dspguide.com
+	       https://youtu.be/MXq9L5lstD4
+b.For lzw: https://www.dspguide.com/ch27/5.htm
+	   https://www.geeksforgeeks.org/lzw-lempel-ziv-welch-compression-technique/
+	   https://youtu.be/14wpPMN-0Fw
+	   https://youtu.be/pRxiCYwclqg
+	   
+2.Book: Data compression and algorithms
+
+3.People:
+a.Abhijit Sir: Taught us how to create our own data structures and work with it and also gave ssome idae on bit masking.
+

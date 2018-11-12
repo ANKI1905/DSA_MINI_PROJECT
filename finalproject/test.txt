@@ -1,0 +1,4 @@
+./project -c1 data.txt data.huff
+./project -uc1 data.huff data.dec.huff
+./project -c2 data.txt data.lzw
+./project -uc2 data.lzw data.lzw.dec
